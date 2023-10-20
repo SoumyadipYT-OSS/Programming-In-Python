@@ -1,6 +1,6 @@
 # Programming-In-Python
 This repository is based on python programs with basic and advanced libraries and as well as some hands-on project
-<img width="210" height="110" src="https://communityblog.fedoraproject.org/wp-content/uploads/2015/11/Python-logo.png">
+<img width="220" height="110" src="https://communityblog.fedoraproject.org/wp-content/uploads/2015/11/Python-logo.png">
 
 <img width="400" height="260" src="https://www.kidscode.sg/wp-content/uploads/2017/04/while-loop-modulo-even-numbers-python-animation.gif">
 
